@@ -1,3 +1,6 @@
 [submodule "product-service"]
 	path = product-service
 	url = git@github.com:notmhmd/nestjs-products.git
+[submodule "order-service"]
+	path = order-service
+	url = git@gh_personal:notmhmd/nestjs-orders.git
