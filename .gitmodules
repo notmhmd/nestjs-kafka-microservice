@@ -3,4 +3,10 @@
 	url = git@github.com:notmhmd/nestjs-products.git
 [submodule "order-service"]
 	path = order-service
-	url = git@gh_personal:notmhmd/nestjs-orders.git
+	url = git@github.com:notmhmd/nestjs-orders.git
+[submodule "user-service"]
+	path = user-service
+	url = git@github.com:notmhmd/nestjs-users.git
+[submodule "api-gateway"]
+	path = order-service
+	url = git@github.com:notmhmd/nestjs-gateway.git
