@@ -16,7 +16,7 @@ follow the steps [here](https://docs.docker.com/compose/install/)
 
 **clone the repo**
 
-    git clone https://github.com/notmhmd/nestjs-kafka-microservice
+    git clone --recurse-submodules https://github.com/notmhmd/nestjs-kafka-microservice
 
 **initializing the app**
 
