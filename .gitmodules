@@ -8,5 +8,5 @@
 	path = user-service
 	url = git@github.com:notmhmd/nestjs-users.git
 [submodule "api-gateway"]
-	path = order-service
+	path = api-gateway
 	url = git@github.com:notmhmd/nestjs-gateway.git
