@@ -1,0 +1,11 @@
+POST http://localhost:3000/order/place
+Content-Type: application/json
+
+{
+  "notes": "testing notez",
+  "products": [4]
+}
+
+###
+GET http://localhost:3000/order/17
+Content-Type: application/json
